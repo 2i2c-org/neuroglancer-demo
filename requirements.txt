@@ -1,3 +1,4 @@
+jupyterlab-myst
 jupyter-neuroglancer
 neuroglancer
 git+https://github.com/ganisback/jupyter-server-proxy@support-stream
