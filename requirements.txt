@@ -1,0 +1,9 @@
+jupyter-neuroglancer
+neuroglancer
+git+https://github.com/ganisback/jupyter-server-proxy@support-stream
+numpy<2
+tensorstore
+ipywidgets
+fsspec
+zarr
+dask
